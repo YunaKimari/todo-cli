@@ -13,17 +13,11 @@ básicas de listas.
 - Buscar tarefas por palavra-chave no título.
 
 ## 📁 Estrutura do projeto
-todo-cli/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── com/
-│   │           └── todo/
-│   │               ├── App.java         # Classe principal (CLI)
-│   │               ├── TaskManager.java # Gerenciador de tarefas
-│   │               └── Task.java        # Modelo da tarefa
-├── pom.xml                              # Arquivo de configuração do Maven
-└── .gitignore                           # Arquivos/pastas ignorados pelo Git
+- App.java: Classe principal (CLI).
+- TaskManager.java: Gerenciador de tarefas.
+- Task.java: Modelo da tarefa.
+- pom.xml: Arquivo de configuração do Maven.
+- .gitignore: Arquivos/pastas ignorados pelo Git.
 - README.md: Este arquivo (em português e em inglês).
 
 ## 🚀 Como executar
@@ -69,17 +63,11 @@ todo-cli is a simple command-line Java application built with Maven for task man
 - Search tasks by title keyword.
 
 ## 📁 Project structure
-todo-cli/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── com/
-│   │           └── todo/
-│   │               ├── App.java         # Main CLI class
-│   │               ├── TaskManager.java # Task manager logic
-│   │               └── Task.java        # Task model
-├── pom.xml                              # Maven build configuration
-└── .gitignore                           # Git ignored files/folders
+- App.java: Main CLI class.
+- TaskManager.java: Task manager logic.
+- Task.java: Task model.
+- pom.xml: Maven build configuration.
+- .gitignore: Git ignored files/folders.
 - README.md: This file (in Portuguese and in English).
 
 ## 🚀 How to run
