@@ -68,7 +68,7 @@ todo-cli is a simple command-line Java application built with Maven for task man
 - `Task.java`: Task model.
 - `pom.xml`: Maven build configuration.
 - `.gitignore`: Git ignored files/folders.
-- `README.md`: This file (in both Portuguese and English)
+- `README.md`: This file (in both Portuguese and English).
 
 ## 🚀 How to run
 - Java 17 or higher.
