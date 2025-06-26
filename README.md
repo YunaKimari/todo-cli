@@ -1,4 +1,4 @@
-## Lista de Tarefas (todo-cli)
+## Lista de Tarefas (todo-cli) ![Java 17](https://img.shields.io/badge/Java-17-red?logo=java) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?logo=apachemaven)
 Uma aplicação de linha de comando em Java para gerenciar tarefas de forma simples, rápida e eficiente.
 
 ## 🎮 Sobre o projeto
@@ -49,7 +49,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## Task List (todo-cli)
+## Task List (todo-cli) ![Java 17](https://img.shields.io/badge/Java-17-red?logo=java) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?logo=apachemaven)
 A simple Java command-line app to manage tasks quickly and efficiently.
 
 ## 🎮 About th project
